@@ -182,7 +182,7 @@ export default function Hero() {
             {[
               ["6+", "Years Exp."],
               ["15+", "Brands Managed"],
-              ["285K", "Followers Scaled"],
+              ["300K+", "Followers Scaled"],
             ].map(([n, l]) => (
               <div key={l}>
                 <div
