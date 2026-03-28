@@ -57,7 +57,10 @@ export default function Experience() {
   return (
     <section
       id="experience"
-      style={{ padding: "100px var(--px)", background: "var(--black)" }}
+      style={{
+        padding: "clamp(80px, 10vw, 100px) var(--px)  var(--px)",
+        background: "var(--black)",
+      }}
     >
       <div className="sec-label">02 — Experience</div>
       <div className="sec-title reveal">

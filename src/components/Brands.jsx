@@ -71,7 +71,10 @@ export default function Brands() {
   return (
     <section
       id="brands"
-      style={{ padding: "100px var(--px)", background: "var(--dark)" }}
+      style={{
+        padding: "clamp(80px, 10vw, 100px) var(--px) 20px  var(--px)",
+        background: "var(--dark)",
+      }}
     >
       <div className="sec-label">03 — Brands</div>
       <div className="sec-title reveal">
@@ -83,7 +86,7 @@ export default function Brands() {
         style={{
           display: "grid",
           gridTemplateColumns:
-            "repeat(auto-fill, minmax(min(100%, 200px), 1fr))",
+            "repeat(auto-fill, minmax(min(100%, 140px), 1fr))",
           gap: 2,
         }}
       >
