@@ -25,7 +25,7 @@ export default function Animated() {
     transform: isHovered ? "scale(1.05)" : "scale(1)",
     transition:
       "filter 0.6s ease, transform 0.6s cubic-bezier(0.16, 1, 0.3, 1)",
-    paddingTop: "1rem",
+    padding: "1rem 1rem 0px",
     // Note: Removed padding here so the image fills the container for a better fade
   };
 
