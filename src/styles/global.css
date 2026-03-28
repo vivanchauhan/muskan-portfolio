@@ -310,7 +310,7 @@ body::after {
   position: relative;
   z-index: 2;
   width: clamp(210px, 30vw, 220px);
-  height: clamp(160px, 50vh, 380px);
+  height: clamp(160px, 50vh, 360px);
   object-fit: cover;
   object-position: top center;
   animation: softFloat 4s ease-in-out infinite;
