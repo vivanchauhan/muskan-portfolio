@@ -5,9 +5,9 @@ const jobs = [
     date: "Aug 2024 — Dec 2025",
 
     bullets: [
-      "Scaled Instagram from <b>130K → 285K+ followers</b>",
-      "Grew social-driven revenue from <b>₹14K → ₹7.5L/month</b>",
-      "Built in-house communities: <b>100K+ WhatsApp</b>, 45K+ Instagram Broadcast",
+      "Scaled Instagram from <b>130K → 300K+ followers</b>",
+      "Grew social-driven revenue from <b>₹14K → ₹10L/month</b>",
+      "Built in-house communities: <b>100K+ WhatsApp</b>, 50K+ Instagram Broadcast",
       "Led end-to-end campaign strategy & execution for <b>Project Creatine (1.0 & 2.0)</b>, <b>Protein Wafer Bar</b> & <b>Nitro Surge Whey (with Dr. Randhawa)</b>",
       "	Owned brand positioning & messaging across <b> digital, influencer and marketplace </b> channels",
       "Executed multi-tier <b>influencer seeding</b> (celebrity, Category A, nano & micro) to drive <b> reach & conversions</b>",
