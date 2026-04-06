@@ -8,8 +8,14 @@ const jobs = [
       "Scaled Instagram from <b>130K → 285K+ followers</b>",
       "Grew social-driven revenue from <b>₹14K → ₹7.5L/month</b>",
       "Built in-house communities: <b>100K+ WhatsApp</b>, 45K+ Instagram Broadcast",
-      "Led All Play No Work Internship, Run of Champions, and multiple podcast series",
-      "Managed and mentored a team of 4 content and community executives",
+      "Led end-to-end campaign strategy & execution for <b>Project Creatine (1.0 & 2.0)</b>, <b>Protein Wafer Bar</b> & <b>Nitro Surge Whey (with Dr. Randhawa)</b>",
+      "	Owned brand positioning & messaging across <b> digital, influencer and marketplace </b> channels",
+      "Executed multi-tier <b>influencer seeding</b> (celebrity, Category A, nano & micro) to drive <b> reach & conversions</b>",
+      "	Developed <b>performance-driven content & creative strategy </b>aligned with paid ads and growth goals",
+      "	Managed end-to-end content ecosystem across <b>offline events, website, and marketplace (A+, PDPs, listings)</b>",
+
+      "Led <b>All Play No Work</b> Internship, <b>Run of Champions</b>, and<b> multiple podcast series</b>",
+      "Managed and mentored a <b> team of 6 </b>content and community executives",
     ],
   },
   {
